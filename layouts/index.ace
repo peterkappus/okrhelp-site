@@ -1,0 +1,13 @@
+= doctype html
+html lang="en"
+  {{ partial "header" .}}
+  body
+    .container.home
+      h3 Looking for some
+      h1.name OKR Help?
+      hr
+      p.bigger Hello! I'm <a href="http://peterkappus.com/cv">Peter Kappus</a> and I've helped organisations including the UK Government and the worlds largest public media organisation to implement OKRs at scale. I'd love to chat and find out how I can help your organisation to succeed with OKRs.
+
+      h3.bigger Connect on <a target="_blank" href="http://linkedin.com/in/peterkappus">LinkedIn</a> or <a href="http://kapp.us/contact"> contact me.</a>
+      br style="height: 100%"
+      {{ partial "footer" .}}
