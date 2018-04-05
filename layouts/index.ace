@@ -8,6 +8,6 @@ html lang="en"
       hr
       p.bigger Hello! I'm <a href="http://peterkappus.com/cv">Peter Kappus</a> and I've helped hundreds of individuals in dozens of teams across some of the world's biggest public organisations to implement OKRs at scale. I'd love to chat and find out how I can help your organisation to succeed with OKRs.
 
-      h3.bigger <a target="_blank" href="http://linkedin.com/in/peterkappus">Learn more</a> or <a href="http://kapp.us/contact"> contact me.</a>
+      h3.bigger <a target="_blank" href="http://linkedin.com/in/peterkappus">Learn more</a> or <a href="http://kapp.us/contact"> get in touch.</a>
       br style="height: 100%"
       {{ partial "footer" .}}
